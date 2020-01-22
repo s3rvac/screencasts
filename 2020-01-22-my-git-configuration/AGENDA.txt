@@ -1,0 +1,14 @@
+My Git Configuration
+--------------------
+
+Petr "s3rvac" Zemek
+https://petrzemek.net/
+
+
+
+1. Shell configuration
+2. Vim configuration
+3. Global configuration options
+4. Aliases
+5. Local configuration
+6. Extensions
