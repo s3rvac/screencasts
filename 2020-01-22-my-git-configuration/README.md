@@ -1,6 +1,7 @@
 # My Git Configuration
 
-Supportive material for my _My Git Configuration_ screencast.
+Supportive material for my [My Git
+Configuration](https://www.youtube.com/watch?v=woCwZ9OnvYo) screencast.
 
 ## Brief Contents
 
